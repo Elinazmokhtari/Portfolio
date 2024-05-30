@@ -2,7 +2,8 @@
 
 ** My Portfolio **
 
-![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
+![View](https://github.com/Elinazmokhtari/Portfolio/assets/109355938/d92aa03c-bfc8-46d8-a9a8-c3e786e61f21)
+
 
 - [Demo Project](https://github.com/Elinazmokhtari/Portfolio)
 
