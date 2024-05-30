@@ -9,11 +9,9 @@
 
 - Developed by Elnaz Mokhtari
 
-- Created - 2022-11-26
+- Created - 2024-5-30
 
 - Technologies Used - Html , Css , Tailwind
-
-- Hooks Used : useState 
 
 - Role - Frontend
 
