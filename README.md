@@ -5,7 +5,7 @@
 ![View](https://github.com/Elinazmokhtari/Portfolio/assets/109355938/d92aa03c-bfc8-46d8-a9a8-c3e786e61f21)
 
 
-- [Demo Project](https://github.com/Elinazmokhtari/Portfolio)
+- [Demo Project]([https://github.com/Elinazmokhtari/Portfolio](https://elinazmokhtari.github.io/Portfolio/))
 
 - Developed by Elnaz Mokhtari
 
